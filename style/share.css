@@ -1,0 +1,31 @@
+.display-flex{
+    display: flex;
+}
+.display-grid{
+    display: grid;
+}
+.main-color{
+    color: black;
+}
+.primary-color{
+    color: #8a7606;
+}
+.secondary-color{
+    color:#3301bd;
+}
+.tertiary-color{
+    color:#880202;
+}
+.quaternary-color{
+    color: #8266ff;
+}
+.secondary-font{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.footer-text-color{
+    color: white;
+}
+
+
