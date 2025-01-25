@@ -160,7 +160,7 @@ s
 }
 .curriculum-item{
     flex-direction:column;
-    max-width:360px;
+    max-width:370px;
     border-radius: 20px;
     justify-content: center;
     align-items: center;
